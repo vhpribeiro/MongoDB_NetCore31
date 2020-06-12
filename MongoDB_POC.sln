@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDB_POC.API", "MongoDB_POC.API\MongoDB_POC.API.csproj", "{6894A3FC-7D40-49CD-BC8E-3A60DF808568}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6894A3FC-7D40-49CD-BC8E-3A60DF808568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6894A3FC-7D40-49CD-BC8E-3A60DF808568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6894A3FC-7D40-49CD-BC8E-3A60DF808568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6894A3FC-7D40-49CD-BC8E-3A60DF808568}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A808308-0EB5-4855-8E42-4851B2F13F00}
+	EndGlobalSection
+EndGlobal
