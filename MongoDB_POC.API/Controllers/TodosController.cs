@@ -16,7 +16,7 @@ namespace MongoDB_POC.API.Controllers
 
         public TodosController(IConfiguration configuration)
         {
-            DatabaseUrl = configuration.GetValue<string>("Database:Url");
+            DatabaseUrl = configuration.GetValue<string>("Database:Local:Url");
             DatabaseName = configuration.GetValue<string>("Database:Name");
         }
 
